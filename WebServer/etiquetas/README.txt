@@ -1,0 +1,1 @@
+http://localhost/brother.php?s=50&p=/home/pi/Pictures/botnroll.jpg

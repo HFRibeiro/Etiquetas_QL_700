@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ql700.png</file>
+    </qresource>
+</RCC>
